@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋 I'm Vaishnavi Adsul  
 
-<!--
-**ervaishnaviadsul/ervaishnaviadsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **.NET Developer | Full Stack Developer**  
+🕒 **3+ Years of Experience**  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a passionate **.NET Developer** with strong experience in **Full Stack Development**.  
+I specialize in building **scalable, secure, and maintainable web applications** using Microsoft technologies.
+
+I have hands-on experience working with:
+- Backend APIs
+- Frontend integration
+- Databases
+- Real-world enterprise applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- ASP.NET Core Web API
+- ASP.NET MVC
+- Entity Framework Core
+- C#
+
+### Frontend
+- HTML, CSS, JavaScript
+- Bootstrap
+- React (basic to intermediate)
+
+### Database
+- SQL Server
+
+### Tools
+- Visual Studio
+- Git & GitHub
+- Swagger
+- Postman
+
+---
+
+## 📂 Projects
+
+- **Employee Management System** – ASP.NET Core Web API
+- **E-commerce Cart**
+- **Expense Tracker**
+- **API Handling**
+- **To-Do List**
+
+---
+
+## 📈 Experience
+
+- 3+ years of professional experience in Full Stack Development
+- Strong understanding of REST APIs and SDLC
+- Experience in building and maintaining production applications
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
