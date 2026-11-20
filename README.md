@@ -1,7 +1,7 @@
 # Hi 👋 I'm Vaishnavi Adsul  
 
 💻 **.NET Developer | Full Stack Developer**  
-🕒 **3+ Years of Experience**  
+
 📍 India  
 
 ---
@@ -55,7 +55,7 @@ I have hands-on experience working with:
 
 ## 📈 Experience
 
-- 3+ years of professional experience in Full Stack Development
+- years of professional experience in Full Stack Development
 - Strong understanding of REST APIs and SDLC
 - Experience in building and maintaining production applications
 
